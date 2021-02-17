@@ -21,3 +21,7 @@ This is a simple web project, deployment can be on any server or even local file
 ## Purpose
 
 Sample website with plenty of files for demos
+
+
+### Copyright
+2021 Git training
